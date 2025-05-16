@@ -1,0 +1,22 @@
+{
+    "application": {
+        "keywords": ["application", "apply", "job", "role"],
+        "response": "Dear [Sender], Thank you for your application. We have received your submission and will review it carefully. You will hear from us soon regarding next steps. Best regards, Mir Haroon"
+    },
+    "interview": {
+        "keywords": ["interview", "meeting", "schedule"],
+        "response": "Dear [Sender], Thank you for your interest. I’d like to schedule an interview to discuss your qualifications further. Please share your availability for the coming week. Best regards, Mir Haroon"
+    },
+    "connection": {
+        "keywords": ["connect", "network", "connection"],
+        "response": "Dear [Sender], Thank you for reaching out. I’m pleased to connect and explore potential professional opportunities. Looking forward to staying in touch. Best regards, Mir Haroon"
+    },
+    "thank_you": {
+        "keywords": ["thank", "thanks", "gratitude"],
+        "response": "Dear [Sender], Thank you for your kind message. I appreciate your support and look forward to future collaboration. Best regards, Mir Haroon"
+    },
+    "general": {
+        "keywords": [],
+        "response": "Dear [Sender], Thank you for your message. I’ll review it and respond soon. Best regards, Mir Haroon"
+    }
+}
